@@ -110,3 +110,11 @@ ul {
     line-height: 29px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+.hy {
+
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+   text-align: center;
+}
