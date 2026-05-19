@@ -118,3 +118,30 @@ ul {
     text-decoration: none;
    text-align: center;
 }
+
+footer {
+
+  background-color: #1b1111;
+
+  color: #ffffff;
+
+  text-align: center;
+
+  padding: 10px 9px;
+
+  font-family:'Courier New', Courier, monospace;
+
+}
+
+
+.cy {
+
+    display: flex;
+
+    justify-content: center;
+
+    gap: 30px; 
+
+    margin: 20px 0 40px 0;
+
+}
