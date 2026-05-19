@@ -96,3 +96,17 @@ ul {
 
     line-height: 29px;
 }
+
+.ei {
+
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 29px;
+}
+
+.enn {
+
+    color: aliceblue;
+    line-height: 29px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
