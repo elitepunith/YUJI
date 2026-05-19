@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Gravitas+One&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    background-color: black;
+}
+.li {
+
+    font-family: 'Gravitas One', serif;
+    text-align: center;
+    color: aliceblue;
+}
+
+.au {
+
+    font-family:'Roboto', sans-serif;
+    font-weight: 350 ; 
+    text-align: left;
+    color: rgb(214, 222, 229);
+}
+
+.ui {
+
+    color: aliceblue;
+    text-align:left;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 29px;
+}
+
+img {
+
+    display: block;      
+    margin: 30px auto;   
+    width: 350px;         
+    height: auto;          
+    border-radius: 12px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease;
+}
+
+img:hover {
+    transform: scale(1.05);
+     overflow: hidden; 
+}
+
+
+ul {
+
+  color: aliceblue;
+  font-family: 'Courier New', Courier, monospace;
+  line-height: 29px;
+
+}
+
+.zo {
+
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+
+
+.crew-container {
+
+    display: flex;
+    justify-content: center;
+    gap: 40px; 
+    margin: 30px 0;
+
+}
+
+
+.crew-item {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 300px;
+    
+}
+
+
+.crew-img {
+
+    width: 100%;
+    height: auto;
+    margin: 0 0 15px 0 !important; 
+    display: block;
+}
+
+.ee {
+
+    color: aliceblue;
+
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    line-height: 29px;
+}
