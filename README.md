@@ -17,5 +17,10 @@ A fan made website for JJK anime !
 ### Preview 
 ![alt text](image.png)
 
+### Credits 
+1. google 
+2. Mappa 
+3. firefox 
+
 ### Author
 elitepunith
